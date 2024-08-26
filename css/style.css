@@ -34,7 +34,7 @@ li{
 .sec1{
     background-image: url("../img");
     background-size: contain; 
-    background-color: #d2fac2;
+    background-color: #ccd1ca;
 }
 
 button{
@@ -60,7 +60,7 @@ button{
 }
 
 .fun{
-    background-color: #54b461;
+    background-color: #fafdfb;
     background-image: url("../img");
 }
 
