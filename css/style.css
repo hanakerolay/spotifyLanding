@@ -1,0 +1,103 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+
+header>figure{
+    float: left;    
+}
+
+header>nav>ul>li{
+    float: right;
+    display: inline-block;
+    text-align:right;  
+}
+
+li{
+    list-style: none;
+    background-color: #fafafa;
+    padding: 30px 105px 26px 353px;
+    font-size: 16px;
+    color: green;
+}
+
+.sec1>article{
+    display: inline-block;
+    width: 23%;
+    padding: 30px 15px 15px 5px;
+    text-align:center; 
+    color: #0a0a0a;
+    font-size: 25px;
+}
+
+.sec1{
+    background-image: url("../img");
+    background-size: contain; 
+    background-color: #b88787;
+}
+
+button{
+    padding: 10px 10px 10px 10px;
+    background-color: #242929;
+    color: #ffffff;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.fun>article{
+    display: inline-block;
+    width: 20%;
+    padding: 25px 15px 13px 55px;
+    text-align:center;
+    font-size: 20px; 
+    color: #000000;
+    
+}
+
+.fun>article>img{
+    border-radius: 50%;
+}
+
+.fun{
+    background-color: #ededed;
+    background-image: url("../img");
+}
+
+.ceo>article{
+    display: inline-block;
+    width: 29%;
+    font-size: 25px;
+    padding: 25px 15px 13px 55px;
+    text-align:center;
+}
+
+.ceo>article>img{
+    border-radius: 50%;
+}
+
+
+#cont{
+    border: 2px solid red;
+    
+}
+
+.seçao4>article{
+    display: inline-block;
+    width: 29%;
+    font-size: 25px;
+    padding: 25px 15px 13px 55px;
+    text-align:center; 
+}
+
+
+h5,h6{
+    font-size: 25px;
+}
+
+.rodape>p{
+    background-color: #1a1818;
+    background-image: url("../img/rodepe.jpeg");
+    padding: 25px 15px 13px 55px;
+    
+}
