@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     font-family: Arial, sans-serif;
+    text-decoration: none;
 }
 
 header>figure{
@@ -34,7 +35,7 @@ li{
 .sec1{
     background-image: url("../img");
     background-size: contain; 
-    background-color: #b88787;
+    background-color: #948d8d;
 }
 
 button{
