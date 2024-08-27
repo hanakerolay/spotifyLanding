@@ -3,6 +3,16 @@
     padding: 0px;
     font-family: Arial, sans-serif;
     text-decoration: none;
+    color: white;
+}
+
+header{
+    height: 90px;
+    background-color: #000000;
+}
+
+body{
+    background-color: #272626;
 }
 
 header>figure{
@@ -17,8 +27,8 @@ header>nav>ul>li{
 
 header>nav>ul>li>a{
     color: #ffffff;
+    
 }
-
 
 li{
     list-style: none;
@@ -29,11 +39,12 @@ li{
 
 .sec1>article{
     display: inline-block;
-    width: 23%;
+    width: 20%;
     padding: 30px 15px 15px 5px;
     text-align:center; 
     color: #fafafa;
     font-size: 25px;
+    margin: 25px;
 }
 
 .sec1{
@@ -44,8 +55,8 @@ li{
 
 button{
     padding: 10px 10px 10px 10px;
-    background-color: #242929;
-    color: #ffffff;
+    background-color: #afb9b9;
+    color: #5a5757;
     border-radius: 20px;
     font-size: 15px;
 }
@@ -65,7 +76,7 @@ button{
 }
 
 .fun{
-    background-color: #ededed;
+    
     background-image: url("../img");
 }
 
